@@ -168,7 +168,7 @@ class CameraCalibrator:
 
     
 def main():
-    video_path = "images/vid3.mp4" 
+    video_path = "images/vid2.mp4" 
     folder = "images/"
     size = 0.00079    # Unit is 'meter'
 
